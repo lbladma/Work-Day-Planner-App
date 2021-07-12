@@ -10,4 +10,9 @@ This project is for creating a simple calendar application that allows a user to
 
 ![A user clicks on slots on the color-coded calendar and edits the events.](05-third-party-apis-homework-demo.gif)
 
-# The Link/URL to the Depolyed app.
+# The URL to the Depolyed app.
+
+
+
+# The URL of the GitHub repository
+
