@@ -1,5 +1,5 @@
 # Synapsis of the Day Planner project
-    This project is for creating a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+This project is for creating a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
 # Summary of the Day Planner project  functionalities and tools
 * Tools and functionality used are: jQuery, LocalStorage, Moment.js, Bootstrap, HTML, CSS and Javascript d
