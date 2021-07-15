@@ -15,10 +15,10 @@
 #
 # The Deployed App screenshot
 
-
+* Screenshot1
 ![A user clicks on slots on the color-coded calendar and edits the events.](day-planner1.png)
 #
-#
+* Screenshot2
 ![A user clicks on slots on the color-coded calendar and edits the events.](day-planner2.png)
 #
 # The URL to the Depolyed app
