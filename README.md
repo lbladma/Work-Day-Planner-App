@@ -14,9 +14,11 @@
 * A 9 to 5 schedule an hour block is used to allow users to save their activities in a calendar format
 #
 # The Deployed App screenshot
-#
+
 
 ![A user clicks on slots on the color-coded calendar and edits the events.](day-planner1.png)
+#
+#
 ![A user clicks on slots on the color-coded calendar and edits the events.](day-planner2.png)
 #
 # The URL to the Depolyed app
